@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Prédiction d'incident de Vol - 2025",
+		"description": "Pipeline de Traitement, Analyse et prédiction d'Incidents en Temps Réel avec Kafka, SparkStreaming et BigQuery.",
+		"image": "/assets/images/projects/IDV.png",
+		"url": "https://github.com/OussamaKarachtit/Prediction-d-incidient-de-volgit add ."
+	},
+
+	{
+		"name": "Prédiction de Désabonnement Avec Interface - 2025",
+		"description": "Prédiction de Désabonnement des clients telecoms à l'aide de RandorforstClassifier.",
+		"image": "/assets/images/projects/IPD.png",
+		"url": "https://github.com/OussamaKarachtit/Prediction-de-desabonnmenet--secteur-telecom-MAROC--"
+	},
+
+	{
+		"name": "Analyse de Tweets - 2024",
+		"description": "Analyse de Tweets secteur Telecom Maroc à l'aide de GoogleBert.",
+		"image": "/assets/images/projects/OP.png",
+		"url": ""
+	},
+
+	{
+		"name": "Analyse de Sentiments- 2023",
+		"description": "Analyse de Sentiments Avec Detection de Sarcasme et  de Dangeosité.",
+		"image": "/assets/images/projects/ADS.png",
+		"url": "https://github.com/OussamaKarachtit/Analyse-de-sentiment"
+	},
+	{
+		"name": "Cars Price Predict- 2023",
+		"description": "Prédiction de prix des voitures d'occasion.",
+		"image": "/assets/images/projects/CPP.png",
+		"url": "https://github.com/OussamaKarachtit/Price-car-prediction"
+	}
+]
