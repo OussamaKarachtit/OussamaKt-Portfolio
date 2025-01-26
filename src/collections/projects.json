@@ -3,7 +3,7 @@
 		"name": "Prédiction d'incident de Vol - 2025",
 		"description": "Pipeline de Traitement, Analyse et prédiction d'Incidents en Temps Réel avec Kafka, SparkStreaming et BigQuery.",
 		"image": "/assets/images/projects/IDV.png",
-		"url": "https://github.com/OussamaKarachtit/Prediction-d-incidient-de-volgit add ."
+		"url": "https://github.com/OussamaKarachtit/Prediction-d-incidient-de-vol.git"
 	},
 
 	{
